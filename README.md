@@ -43,6 +43,12 @@ Users must also provide a nickname that will identify them in the chat room.
 After connecting, clients can send and receive messages in the chat room.  
 The client script uses threads to simultaneously listen for incoming messages and send user messages.  
 
+## **Example Screenshot**
+
+![Chat Room Example](![Alt text](ouput_screenshot-1.png))  
+
+Created CLI based chat tool showing three connected clients of a server communicating with each other.  
+
 ## **Important Notes**  
 The provided scripts offer basic functionality and may not cover all possible edge cases or security measures.  
 This project is meant for educational purposes and may require further refinement for production use.  
