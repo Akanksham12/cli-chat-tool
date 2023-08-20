@@ -45,7 +45,7 @@ The client script uses threads to simultaneously listen for incoming messages an
 
 ## **Example Screenshot**
 
-![Chat Room Example](output_screenshot.png)   
+![Chat Room Example](ouput_screenshot.png)   
 
 Created CLI based chat tool showing three connected clients of a server communicating with each other.  
 
