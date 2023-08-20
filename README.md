@@ -8,22 +8,23 @@ mclient_side.py: This script represents the client-side of the chat room. It all
 
 hosts_port.csv: This CSV file contains a list of available server hosts and ports. The client script uses this file to display the available servers for the user to choose from.  
 
-# **How to Run the Project**  
+## **How to Run the Project**  
 Running the Server (server_side.py):
 
 Open a terminal.  
 Ensure you have Python installed.  
 Run the script using the command:  
-    ```bash  
-    python server_side.py.  
-
+  ```bash
+  python server_side.py.  
+```
 Running the Client (mclient_side.py):
 
 Open a separate terminal.  
 Ensure you have Python installed.  
 Run the script using the command:  
-    ```bash  
-    python mclient_side.py.  
+```bash  
+     python mclient_side.py.  
+```
 Follow the on-screen prompts to choose a server, provide a nickname, and start chatting.  
 
 ## **Usage Instructions**  
